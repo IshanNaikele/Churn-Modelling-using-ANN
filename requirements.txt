@@ -1,6 +1,6 @@
-tensorflow
-pandas 
-numpy 
+tensorflow==2.15.0 # Or another compatible version
+pandas
+numpy
 scikit-learn
 tensorboard
 streamlit
